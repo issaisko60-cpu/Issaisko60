@@ -1,0 +1,6 @@
+{
+  "name": "Kasuwanci",
+  "description": "Tsarin gudanar da kasuwanci na zamani: kaya, ciniki, abokan ciniki, rahotanni da riba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
